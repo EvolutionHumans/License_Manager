@@ -2,22 +2,35 @@
   "_meta": {
     "app": "CalculatorPro",
     "version": "1.0",
-    "description": "用户账号数据库 - 由管理员后台维护",
-    "last_updated": "2024-01-01T00:00:00Z"
+    "description": "ç¨æ·è´¦å·æ°æ®åº - ç±ç®¡çååå°ç»´æ¤",
+    "last_updated": "2026-03-08T04:38:27.103Z"
   },
   "users": [
     {
       "id": "admin-001",
       "username": "admin",
-      "password_hash": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+      "password_hash": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",
       "role": "admin",
-      "display_name": "管理员",
+      "display_name": "ChenFuhao",
       "license_key": "PERM-ADMIN-00000-00000",
       "created_at": "2024-01-01",
       "expires_at": "2099-12-31",
       "enabled": true,
       "last_login": null,
-      "note": "默认管理员账号，密码: admin123，请修改"
+      "note": "é»è®¤ç®¡çåè´¦å·ï¼å¯ç : admin123ï¼è¯·ä¿®æ¹"
+    },
+    {
+      "id": "df15e928",
+      "username": "cfh",
+      "password_hash": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",
+      "role": "user",
+      "display_name": "cfh",
+      "license_key": "",
+      "created_at": "2026-03-08",
+      "expires_at": "2027-03-08",
+      "enabled": true,
+      "last_login": null,
+      "note": ""
     }
   ]
 }
